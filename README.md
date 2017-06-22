@@ -3,7 +3,7 @@
 ## Overview
 
 In this lesson, we'll look at how to reduce a list to a single value.
-
+READ
 ## Objectives
 
 1. Explain the concept of reduce() in programming
